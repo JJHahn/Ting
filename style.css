@@ -1,0 +1,14 @@
+h1 {
+    background-color: cadetblue;
+}
+h2 {
+    align-content: center;
+}
+footer {
+    text-align: center;
+    margin-top: 25%;
+}
+#big {
+    width: 300px;
+    height: 300px;
+}
